@@ -1,4 +1,4 @@
-## Hi, I'm Vladislav and this is my favorite place on the Citadel. <img src="[https://example.com/n7-logo.png](https://yt3.googleusercontent.com/ytc/AIdro_lwS-z9zF4-AE0y3M2PAmL2P_maeCBdcWXpN32sMwoCfho=s900-c-k-c0x00ffffff-no-rj)" alt="N7 Logo" width="100">
+## Hi, I'm Vladislav and this is my favorite place on the Citadel. <img src="https://github.com/Vlad119/assets/" alt="N7 Logo" width="100">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+%2F+Unity3D+Developer)](https://git.io/typing-svg)
 
 <!--
