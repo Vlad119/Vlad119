@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C#+/+Unity3DDeveloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+%2F+Unity3D+Developer)](https://git.io/typing-svg)
 
 <!--
 **Vlad119/Vlad119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
