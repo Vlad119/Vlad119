@@ -5,3 +5,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlad119&theme=vision_friendly_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=vision_friendly_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=vision_friendly_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=vision_friendly_dark)
+
