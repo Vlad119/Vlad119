@@ -3,5 +3,5 @@
 
 <img src="https://github.com/Vlad119/assets/blob/main/dotnet-logo.jpg" width="50"> <img src="https://github.com/Vlad119/assets/blob/main/unity.png" width="55"> <img src="https://github.com/Vlad119/assets/blob/main/git.svg" width="50"> <img src="https://github.com/Vlad119/assets/blob/main/jira.svg" width="50">  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlad119&theme=vision-friendly-dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlad119&theme=friendly-dark)
 
