@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Vladislav and this is my favorite place on the Citadel. 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+%2F+Unity3D+Developer)](https://git.io/typing-svg)
 
 <!--
