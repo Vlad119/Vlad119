@@ -1,4 +1,4 @@
-## Hi, I'm Vladislav and this is my favorite place on the Citadel. 👋
+## Hi, I'm Vladislav and this is my favorite place on the Citadel. <img src="https://example.com/n7-logo.png" alt="N7 Logo" width="30">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=C%23+%2F+Unity3D+Developer)](https://git.io/typing-svg)
 
 <!--
